@@ -1,0 +1,9 @@
+REPORT
+======
+
+Distances calculated using exponential formula are imperfect representations of relationships in data.
+However, MDS works best on larger distances.
+
+For lower values of alpha, the distance are larger and comparatively accurate. This is because stress function highlights discrepancies and therefore MDS performs better on these.
+
+For higher values of alpha, MDS does not do a good job.
